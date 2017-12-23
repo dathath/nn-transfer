@@ -1,10 +1,10 @@
 from __future__ import print_function
 from collections import OrderedDict
 
+import keras
 import numpy as np
 import h5py
 import torch
-import keras
 
 from . import util
 
